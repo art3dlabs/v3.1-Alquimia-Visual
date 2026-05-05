@@ -1,0 +1,32 @@
+{
+  "name": "alquimia-visual-v0",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^1.29.0",
+    "clsx": "^2.1.1",
+    "exif-parser": "^0.1.12",
+    "exifr": "^7.1.3",
+    "framer-motion": "^12.23.12",
+    "idb-keyval": "^6.2.2",
+    "lucide-react": "^1.7.0",
+    "piexifjs": "^1.0.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tailwind-merge": "^3.3.1",
+    "use-debounce": "^10.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

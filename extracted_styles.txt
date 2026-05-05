@@ -1,0 +1,113 @@
+================================================================================
+ANÁLISIS DE ESTILOS FOTOGRÁFICOS EXTRAÍDOS
+================================================================================
+Este archivo contiene una lista curada de estilos visuales detectados en la aplicación.
+Cada estilo ha sido normalizado a un "Mid Shot" (Plano Medio) para facilitar la comparación.
+
+--------------------------------------------------------------------------------
+ESTILO 1: Cinematic Muted Realism
+(Basado en: Cinematic Mirror Selfie / Cinematic Portrais)
+PROMPT:
+Mid shot of a person facing the camera with a calm expression. The setting is a modern interior with soft, natural light. Lighting is soft and diffused, creating creamy highlights and lifelike skin textures. Colors are a muted neutral palette. Aesthetic is ultra 4K cinematic realism, Kodak Portra 800 film tone.
+
+--------------------------------------------------------------------------------
+ESTILO 2: Cool Digital Glow
+(Basado en: Tech Visionary / Sci-Fi / Gamer)
+PROMPT:
+Mid shot of a person looking intelligently at the camera. The setting is a dark server room or tech environment. Lighting consists of a strong backlight from blue/white LED lights and a cool, diffuse overhead light, casting a digital glow on the face. Dominant colors are cool blues, cyan, and deep blacks with medium contrast. Smooth metallic surfaces, zero grain.
+
+--------------------------------------------------------------------------------
+ESTILO 3: Gritty Backstage Contrast
+(Basado en: Musician Backstage / Boxer V2)
+PROMPT:
+Mid shot of a person with an intense expression. The setting is a dark, rustic backstage area or gym. Lighting is an extreme and dramatic backlight coming from a bright source behind, outlining the features with a rim of white light. Dominant colors are deep blacks and high contrast beams. Authentic documentary look with visible grain for a raw feel.
+
+--------------------------------------------------------------------------------
+ESTILO 4: Earthy Studio Daylight
+(Basado en: Artist Studio / Workshop)
+PROMPT:
+Mid shot of a person focused or looking at the camera. The setting is a spacious, dusty loft or workshop. Lighting is a strong, natural backlight beaming through a large industrial window, creating a dusty, dramatic halo around the subject. Dominant colors are earthy tones, ochres, and grays. Rich, realistic textures with light grain.
+
+--------------------------------------------------------------------------------
+ESTILO 5: Cosmic Purple Haze
+(Basado en: Scientist Visionary / Galaxy themes)
+PROMPT:
+Mid shot of a person with an expression of awe. The setting is a dark environment illuminated by a large projection or cosmic light source. Lighting is a dramatic front light bathing the face in vibrant, ethereal colors like purples, blues, and magentas. Dominant colors are cool and cosmic with medium-high contrast. Finely detailed textures.
+
+--------------------------------------------------------------------------------
+ESTILO 6: Inferno Orange Glow
+(Basado en: Master Pitmaster / Firefighter)
+PROMPT:
+Mid shot of a person sweating and looking intense. The setting is a rustic outdoor space at night. Lighting is dominated by an intense orange and red glow from a fire or embers acting as a powerful backlight and dramatic key light. Dominant colors are oranges, reds, and deep blacks with extreme contrast. Visceral grain and raw textures.
+
+--------------------------------------------------------------------------------
+ESTILO 7: Vibrant Night Bokeh
+(Basado en: Content Creator Market / City Night)
+PROMPT:
+Mid shot of a person smiling confidently. The setting is a bustling city street at night with moving traffic. Lighting highlights the face softly against a background of dynamic, blurred city lights and bokeh. Dominant colors are vibrant and saturated with medium contrast. Authentic documentary look showing movement.
+
+--------------------------------------------------------------------------------
+ESTILO 8: Dramatic Spotlight Noir
+(Basado en: Haute Couture Designer / Stage)
+PROMPT:
+Mid shot of a person with a focused expression. The setting is a dark room or stage. The background is dominated by deep shadows. Lighting is a single, dramatic spotlight that illuminates the face and creates high contrast. Dominant colors are deep blacks and sharp highlights. Authentic look with zero grain.
+
+--------------------------------------------------------------------------------
+ESTILO 9: High Key Flash
+(Basado en: Runway / Red Carpet / Paparazzi)
+PROMPT:
+Mid shot of a person with a charismatic attitude. The setting is a crowded event or runway. Lighting is multifocal and dramatic, mimicking camera flashes, highlighting facial features and clothing details sharply. Dominant colors are deep blacks and metallic tones with high contrast. Documentary look without softening.
+
+--------------------------------------------------------------------------------
+ESTILO 10: Soft Window Glow
+(Basado en: Fashion Icon / Intimate Indoor)
+PROMPT:
+Mid shot of a person with a vulnerable, reflective expression. The setting is a cozy, luxurious room or closet. Lighting is soft and diffuse, likely from a nearby window, creating a flattering glow on skin and textures. Dominant colors are soft/pastel with low contrast. Intimate documentary look with very fine grain.
+
+--------------------------------------------------------------------------------
+ESTILO 11: Pastel Geometric Sun
+(Basado en: Minimalist Fashion V2)
+PROMPT:
+Mid shot of a person holding a deliberate pose. The setting is an outdoor architectural space with simple shapes. Lighting is bright, hard sunlight casting sharp, geometric shadows across the face and body. Dominant colors are saturated pastels with high contrast. Dreamlike, graphic composition.
+
+--------------------------------------------------------------------------------
+ESTILO 12: Deep Black Void
+(Basado en: Studio Portrait Black / Subversive Luxury)
+PROMPT:
+Mid shot of a person with a calm, powerful expression. The setting is a studio with a solid, infinite deep black background. Lighting is cinematic and high-contrast, sculpting the features and isolating the subject completely. Dominant colors are rich skin tones against pure black. Hyper-realistic 8K quality.
+
+--------------------------------------------------------------------------------
+ESTILO 13: Crimson Saturated Studio
+(Basado en: Crimson Portrait V2)
+PROMPT:
+Mid shot of a person with a quiet dominance. The setting is a studio with a deep, saturated crimson red background. Lighting is cinematic, stark, and diagonal, hitting half the face to dramatize the jawline. High contrast. Authentic, hyper-realistic look.
+
+--------------------------------------------------------------------------------
+ESTILO 14: Direct Flash Grunge
+(Basado en: 90s Direct Flash / Fan Encounters Vintage)
+PROMPT:
+Mid shot of a person looking at the camera with attitude. The setting is a dimly lit indoor room or party. Lighting is a harsh, direct front flash creating hard highlights on the forehead/nose and deep drop shadows on the wall behind. Dominant colors are low-saturation neutrals. Texture is slightly grainy/rough, typical of 90s compact cameras.
+
+--------------------------------------------------------------------------------
+ESTILO 15: Nostalgic Golden Sun
+(Basado en: Beach Film / Malambo / Sunset)
+PROMPT:
+Mid shot of a person with a relaxed expression. The setting is an open outdoor field or beach at sunset. Lighting is strong natural backlighting (Golden Hour) creating a brilliant golden rim light around the hair and silhouette. Colors are warm, sun-drenched, and vibrant. Cinematic film look with high contrast.
+
+--------------------------------------------------------------------------------
+ESTILO 16: Cold Neon Rain
+(Basado en: Film Noir Detective / Cyberpunk / Gotham)
+PROMPT:
+Mid shot of a person looking intense. The setting is a dark, rainy city alley at night. Lighting comes from neon signs reflecting on wet surfaces and a cool light casting upward or from the side. Dominant colors are cool blues, rain-slicked greys, and neon accents with very high contrast. Pronounced film grain.
+
+--------------------------------------------------------------------------------
+ESTILO 17: Ethereal Morning Mist
+(Basado en: Parisian Balcony / Foggy Travel)
+PROMPT:
+Mid shot of a person looking contemplative. The setting is an outdoor balcony or landscape on a foggy morning or dusk. Lighting is soft, ambient, and hazy, with distant warm lights glowing through the fog. Dominant colors are cool greys mixed with warm street light glows. Moody elegance, ultra-realistic.
+
+--------------------------------------------------------------------------------
+ESTILO 18: Vintage Analog Warmth
+(Basado en: Polaroid / 70s Fan Photos)
+PROMPT:
+Mid shot of a person with a candid smile. The setting is an indoor domestic space. Lighting mimics a direct analog camera flash but softened by age, or warm incandescent light. Dominant colors have a warm/yellow color cast, slightly faded shadows, and visible film grain. No white border, just the aesthetic of a vintage photo.
